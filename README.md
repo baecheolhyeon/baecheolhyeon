@@ -1,4 +1,4 @@
-# 택시합승시스템(Carpooling)
+<!--# 택시합승시스템(Carpooling)
 
 <a href="https://travelmate-front.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/TravelMate-Ajou-Univ/.github/raw/main/profile/home1.png" width="100%" /></a>
 
@@ -25,28 +25,10 @@
 
 ## 팀원 소개
 
-|이름|역할|email|
-|---|---|---|
-|김준하|팀장, FE|junhakjh@ajou.ac.kr|
-|유정호|BE|dbwjdgh03@ajou.ac.kr|
-|조진수|BE|chojs23@ajou.ac.kr|
-|홍성표|FE|pwsusc10@ajou.ac.kr|
+|배철현|toodd1130@naver.com|
 
 ## ERD
 
 ![image](https://github.com/TravelMate-Ajou-Univ/.github/assets/64683286/bc6b33e4-b07e-4bfd-ab99-084e58dcee72)
 
-<!--
-**baecheolhyeon/baecheolhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
