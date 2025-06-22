@@ -1,7 +1,5 @@
 ## 🙏안녕하세요! 배철현입니다.
 
-### Tech Stack
-
 Language<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Node.Js](https://img.shields.io/badge/node.js-%5FA04E.svg?style=flat&logo=nodedotjs&logoColor=white)
 
