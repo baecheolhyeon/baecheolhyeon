@@ -2,7 +2,7 @@
 
 Language  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typeScript-23ED8B.svg?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
 
 Backend  
 ![Spring Boot 3](https://img.shields.io/badge/SpringBoot_3-6DB33F?style=flat&logo=springboot&logoColor=white) 
